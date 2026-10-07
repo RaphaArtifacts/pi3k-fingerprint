@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "pi3k-fingerprint: dynamic protein-ligand interaction fingerprinting from MD data"
+message: "If you use this software, please cite the accompanying paper (citation to be added upon publication)."
+type: software
+authors:
+  - family-names: "Wang"
+    given-names: "Jian"
+license: MIT
+version: 1.0.0
+repository-code: "https://github.com/RaphaArtifacts/pi3k-fingerprint"
+keywords:
+  - molecular dynamics
+  - protein-ligand interactions
+  - PI3K
+  - isoform selectivity
+  - interaction fingerprint
