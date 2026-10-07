@@ -1,0 +1,24 @@
+# Minimal example: 2 systems (one typical, one atypical binding mode).
+systems:
+  alpha: ["4JPS"]
+  delta: ["5T8F"]
+
+ligands:
+  4JPS: "alpelisib (BYL719)"
+  5T8F: "taselisib (GDC-0032)"
+
+uniprot:
+  reference: "PIK3CA"
+  alpha: "PIK3CA"
+  delta: "PIK3CD"
+
+dir_exceptions: {}
+
+contact_types: ["HBond", "Hydrophobic", "WaterBridge", "Ionic", "Pi-Pi", "Pi-Cation", "Metal"]
+
+equilibration_frames: 200
+frame_dt_ns: 0.1
+occupancy_major: 0.50
+occupancy_minor: 0.20
+occupancy_ignore: 0.05
+kinase_domain_range: [700, 1068]

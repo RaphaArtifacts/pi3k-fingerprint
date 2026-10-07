@@ -1,0 +1,743 @@
+  # Frame#   Residue#      Chain    ResName   AtomName  LigandFragment      LigandAtom 
+         0        770          A        ARG       HH22        L-FRAG_1               O 
+         1        802          A        LYS        HZ3        L-FRAG_3              N4 
+         1        810          A        ASP        OD2        L-FRAG_3              N4 
+         1        859          A        GLN        OE1        L-FRAG_1               O 
+         2        802          A        LYS        HZ2        L-FRAG_3              N4 
+         2        810          A        ASP        OD2        L-FRAG_3              N4 
+         4        770          A        ARG       HH12        L-FRAG_2              O1 
+         6        770          A        ARG       HH22        L-FRAG_2              O1 
+        12        770          A        ARG       HH22        L-FRAG_1               O 
+        13        932          A        ILE          O        L-FRAG_3              N4 
+        13        770          A        ARG       HH22        L-FRAG_2              O1 
+        16        859          A        GLN        OE1        L-FRAG_1               O 
+        16        859          A        GLN        OE1        L-FRAG_2              O1 
+        22        810          A        ASP        OD2        L-FRAG_3              N4 
+        22        859          A        GLN       HE22        L-FRAG_1               O 
+        24        810          A        ASP        OD2        L-FRAG_3              N4 
+        25        855          A        HIS        NE2        L-FRAG_2              O1 
+        26        810          A        ASP        OD1        L-FRAG_3              N4 
+        27        810          A        ASP        OD1        L-FRAG_3              N4 
+        28        859          A        GLN       HE22        L-FRAG_1               O 
+        31        859          A        GLN       HE22        L-FRAG_2              O1 
+        31        859          A        GLN       HE22        L-FRAG_1               O 
+        32        855          A        HIS        NE2        L-FRAG_2              O1 
+        33        810          A        ASP        OD1        L-FRAG_3              N4 
+        34        810          A        ASP        OD1        L-FRAG_3              N4 
+        35        810          A        ASP        OD1        L-FRAG_3              N4 
+        36        810          A        ASP        OD1        L-FRAG_3              N4 
+        36        859          A        GLN        OE1        L-FRAG_2              O1 
+        38        859          A        GLN        OE1        L-FRAG_1               O 
+        41        810          A        ASP        OD1        L-FRAG_3              N4 
+        42        810          A        ASP        OD1        L-FRAG_3              N4 
+        43        810          A        ASP        OD1        L-FRAG_3              N4 
+        44        859          A        GLN       HE22        L-FRAG_2              O1 
+        45        810          A        ASP        OD1        L-FRAG_3              N4 
+        48        810          A        ASP        OD1        L-FRAG_3              N4 
+        49        810          A        ASP        OD1        L-FRAG_3              N4 
+        50        810          A        ASP        OD1        L-FRAG_3              N4 
+        50        859          A        GLN       HE22        L-FRAG_1               O 
+        51        810          A        ASP        OD1        L-FRAG_3              N4 
+        51        859          A        GLN       HE22        L-FRAG_1               O 
+        52        810          A        ASP        OD1        L-FRAG_3              N4 
+        57        810          A        ASP        OD1        L-FRAG_3              N4 
+        58        810          A        ASP        OD1        L-FRAG_3              N4 
+        59        810          A        ASP        OD1        L-FRAG_3              N4 
+        61        810          A        ASP        OD1        L-FRAG_3              N4 
+        62        810          A        ASP        OD1        L-FRAG_3              N4 
+        62        859          A        GLN       HE22        L-FRAG_1               O 
+        62        859          A        GLN       HE22        L-FRAG_2              O1 
+        63        810          A        ASP        OD1        L-FRAG_3              N4 
+        64        810          A        ASP        OD1        L-FRAG_3              N4 
+        65        810          A        ASP        OD1        L-FRAG_3              N4 
+        66        810          A        ASP        OD1        L-FRAG_3              N4 
+        67        810          A        ASP        OD1        L-FRAG_3              N4 
+        69        859          A        GLN       HE22        L-FRAG_1               O 
+        70        810          A        ASP        OD1        L-FRAG_3              N4 
+        71        810          A        ASP        OD1        L-FRAG_3              N4 
+        72        810          A        ASP        OD1        L-FRAG_3              N4 
+        73        810          A        ASP        OD1        L-FRAG_3              N4 
+        74        810          A        ASP        OD1        L-FRAG_3              N4 
+        76        810          A        ASP        OD1        L-FRAG_3              N4 
+        77        810          A        ASP        OD1        L-FRAG_3              N4 
+        78        810          A        ASP        OD1        L-FRAG_3              N4 
+        79        802          A        LYS        HZ1        L-FRAG_3              N4 
+        80        810          A        ASP        OD1        L-FRAG_3              N4 
+        81        810          A        ASP        OD1        L-FRAG_3              N4 
+        82        810          A        ASP        OD1        L-FRAG_3              N4 
+        83        810          A        ASP        OD1        L-FRAG_3              N4 
+        84        859          A        GLN       HE22        L-FRAG_1               O 
+        85        810          A        ASP        OD1        L-FRAG_3              N4 
+        86        810          A        ASP        OD1        L-FRAG_3              N4 
+        88        810          A        ASP        OD1        L-FRAG_3              N4 
+        88        773          A        SER          O        L-FRAG_2              O1 
+        89        810          A        ASP        OD1        L-FRAG_3              N4 
+        90        810          A        ASP        OD1        L-FRAG_3              N4 
+        90        859          A        GLN       HE22        L-FRAG_1               O 
+        92        859          A        GLN        OE1        L-FRAG_1               O 
+        93        810          A        ASP        OD1        L-FRAG_3              N4 
+        94        856          A        THR        OG1        L-FRAG_4            H3 2 
+        94        810          A        ASP        OD1        L-FRAG_3              N4 
+        95        810          A        ASP        OD1        L-FRAG_3              N4 
+        95        856          A        THR          H        L-FRAG_2              O1 
+        96        810          A        ASP        OD1        L-FRAG_3              N4 
+        97        810          A        ASP        OD1        L-FRAG_3              N4 
+        98        810          A        ASP        OD1        L-FRAG_3              N4 
+        99        859          A        GLN       HE21        L-FRAG_2              O1 
+       101        856          A        THR          H        L-FRAG_4            H3 2 
+       103        810          A        ASP        OD1        L-FRAG_3              N4 
+       104        810          A        ASP        OD1        L-FRAG_3              N4 
+       105        810          A        ASP        OD1        L-FRAG_3              N4 
+       106        810          A        ASP        OD1        L-FRAG_3              N4 
+       107        810          A        ASP        OD1        L-FRAG_3              N4 
+       108        810          A        ASP        OD1        L-FRAG_3              N4 
+       109        810          A        ASP        OD1        L-FRAG_3              N4 
+       110        810          A        ASP        OD1        L-FRAG_3              N4 
+       112        810          A        ASP        OD1        L-FRAG_3              N4 
+       114        810          A        ASP        OD1        L-FRAG_3              N4 
+       115        810          A        ASP        OD1        L-FRAG_3              N4 
+       116        810          A        ASP        OD1        L-FRAG_3              N4 
+       117        810          A        ASP        OD1        L-FRAG_3              N4 
+       117        859          A        GLN       HE22        L-FRAG_2              O1 
+       117        859          A        GLN        OE1        L-FRAG_2              O1 
+       120        810          A        ASP        OD1        L-FRAG_3              N4 
+       121        810          A        ASP        OD1        L-FRAG_3              N4 
+       122        810          A        ASP        OD1        L-FRAG_3              N4 
+       123        810          A        ASP        OD1        L-FRAG_3              N4 
+       124        810          A        ASP        OD1        L-FRAG_3              N4 
+       125        856          A        THR          H        L-FRAG_4            H3 2 
+       125        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       125        810          A        ASP        OD1        L-FRAG_3              N4 
+       127        810          A        ASP        OD1        L-FRAG_3              N4 
+       128        856          A        THR          H        L-FRAG_4            H3 2 
+       128        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       128        810          A        ASP        OD1        L-FRAG_3              N4 
+       130        810          A        ASP        OD1        L-FRAG_3              N4 
+       131        810          A        ASP        OD1        L-FRAG_3              N4 
+       132        810          A        ASP        OD1        L-FRAG_3              N4 
+       133        810          A        ASP        OD1        L-FRAG_3              N4 
+       134        810          A        ASP        OD1        L-FRAG_3              N4 
+       135        810          A        ASP        OD1        L-FRAG_3              N4 
+       136        810          A        ASP        OD1        L-FRAG_3              N4 
+       137        810          A        ASP        OD1        L-FRAG_3              N4 
+       138        810          A        ASP        OD1        L-FRAG_3              N4 
+       139        810          A        ASP        OD1        L-FRAG_3              N4 
+       140        810          A        ASP        OD1        L-FRAG_3              N4 
+       141        810          A        ASP        OD1        L-FRAG_3              N4 
+       142        810          A        ASP        OD1        L-FRAG_3              N4 
+       143        810          A        ASP        OD1        L-FRAG_3              N4 
+       144        810          A        ASP        OD1        L-FRAG_3              N4 
+       145        810          A        ASP        OD1        L-FRAG_3              N4 
+       146        810          A        ASP        OD1        L-FRAG_3              N4 
+       147        933          A        ASP          H        L-FRAG_3              N4 
+       147        836          A        TYR         OH        L-FRAG_3              N4 
+       151        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       151        933          A        ASP          H        L-FRAG_3              N4 
+       151        836          A        TYR         OH        L-FRAG_3              N4 
+       152        859          A        GLN       HE22        L-FRAG_2              O1 
+       152        810          A        ASP        OD1        L-FRAG_3              N4 
+       153        859          A        GLN       HE22        L-FRAG_4            H3 2 
+       154        859          A        GLN        OE1        L-FRAG_2              O1 
+       159        810          A        ASP        OD1        L-FRAG_3              N4 
+       160        810          A        ASP        OD1        L-FRAG_3              N4 
+       161        859          A        GLN       HE22        L-FRAG_2              O1 
+       162        859          A        GLN        OE1        L-FRAG_2              O1 
+       164        859          A        GLN       HE22        L-FRAG_2              O1 
+       166        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       167        810          A        ASP        OD1        L-FRAG_3              N4 
+       169        810          A        ASP        OD1        L-FRAG_3              N4 
+       170        810          A        ASP        OD1        L-FRAG_3              N4 
+       171        810          A        ASP        OD1        L-FRAG_3              N4 
+       172        810          A        ASP        OD1        L-FRAG_3              N4 
+       173        810          A        ASP        OD1        L-FRAG_3              N4 
+       174        810          A        ASP        OD1        L-FRAG_3              N4 
+       176        856          A        THR          H        L-FRAG_4            H3 2 
+       176        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       176        810          A        ASP        OD1        L-FRAG_3              N4 
+       178        810          A        ASP        OD1        L-FRAG_3              N4 
+       179        810          A        ASP        OD1        L-FRAG_3              N4 
+       180        810          A        ASP        OD1        L-FRAG_3              N4 
+       184        810          A        ASP        OD1        L-FRAG_3              N4 
+       185        810          A        ASP        OD1        L-FRAG_3              N4 
+       186        810          A        ASP        OD1        L-FRAG_3              N4 
+       187        933          A        ASP          H        L-FRAG_3              N4 
+       187        836          A        TYR         OH        L-FRAG_3              N4 
+       187        856          A        THR        HG1        L-FRAG_2              O1 
+       188        854          A        SER          O        L-FRAG_0             HN1 
+       189        856          A        THR          H        L-FRAG_2              O1 
+       189        859          A        GLN        OE1        L-FRAG_2              O1 
+       190        851          A        VAL          O        L-FRAG_0             HN1 
+       190        856          A        THR          H        L-FRAG_2              O1 
+       191        856          A        THR          H        L-FRAG_2              O1 
+       191        851          A        VAL          H        L-FRAG_0               N 
+       191        854          A        SER         OG        L-FRAG_0               N 
+       191        810          A        ASP        OD1        L-FRAG_3              N4 
+       192        856          A        THR          H        L-FRAG_2              O1 
+       192        851          A        VAL          H        L-FRAG_0               N 
+       192        810          A        ASP        OD1        L-FRAG_3              N4 
+       193        856          A        THR        HG1        L-FRAG_2              O1 
+       194        856          A        THR          H        L-FRAG_2              O1 
+       195        856          A        THR        HG1        L-FRAG_2              O1 
+       195        851          A        VAL          H        L-FRAG_0               N 
+       196        856          A        THR          H        L-FRAG_2              O1 
+       196        810          A        ASP        OD1        L-FRAG_3              N4 
+       198        856          A        THR          H        L-FRAG_2              O1 
+       199        856          A        THR          H        L-FRAG_2              O1 
+       199        802          A        LYS        HZ2        L-FRAG_3              N4 
+       199        810          A        ASP        OD1        L-FRAG_3              N4 
+       200        856          A        THR        HG1        L-FRAG_2              O1 
+       200        802          A        LYS        HZ2        L-FRAG_3              N4 
+       200        810          A        ASP        OD1        L-FRAG_3              N4 
+       201        856          A        THR          H        L-FRAG_2              O1 
+       201        802          A        LYS        HZ2        L-FRAG_3              N4 
+       201        810          A        ASP        OD1        L-FRAG_3              N4 
+       203        854          A        SER          O        L-FRAG_2              O1 
+       203        802          A        LYS        HZ2        L-FRAG_3              N4 
+       203        810          A        ASP        OD1        L-FRAG_3              N4 
+       204        810          A        ASP        OD1        L-FRAG_3              N4 
+       205        856          A        THR        HG1        L-FRAG_2              O1 
+       205        810          A        ASP        OD1        L-FRAG_3              N4 
+       206        856          A        THR          H        L-FRAG_2              O1 
+       206        810          A        ASP        OD1        L-FRAG_3              N4 
+       207        851          A        VAL          O        L-FRAG_0             HN1 
+       207        851          A        VAL          O        L-FRAG_4            H3 1 
+       207        856          A        THR          H        L-FRAG_2              O1 
+       207        810          A        ASP        OD1        L-FRAG_3              N4 
+       208        854          A        SER         OG        L-FRAG_0             HN1 
+       208        856          A        THR          H        L-FRAG_2              O1 
+       208        810          A        ASP        OD1        L-FRAG_3              N4 
+       208        859          A        GLN       HE21        L-FRAG_2              O1 
+       209        856          A        THR          H        L-FRAG_2              O1 
+       209        810          A        ASP        OD1        L-FRAG_3              N4 
+       209        851          A        VAL          H        L-FRAG_0               N 
+       209        854          A        SER         OG        L-FRAG_0               N 
+       210        856          A        THR        HG1        L-FRAG_4            H3 2 
+       210        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       210        810          A        ASP        OD1        L-FRAG_3              N4 
+       210        851          A        VAL          H        L-FRAG_0               N 
+       210        854          A        SER         OG        L-FRAG_0               N 
+       211        810          A        ASP        OD1        L-FRAG_3              N4 
+       212        810          A        ASP        OD1        L-FRAG_3              N4 
+       213        856          A        THR        HG1        L-FRAG_4            H3 2 
+       213        810          A        ASP        OD1        L-FRAG_3              N4 
+       214        856          A        THR        HG1        L-FRAG_2              O1 
+       214        810          A        ASP        OD1        L-FRAG_3              N4 
+       215        810          A        ASP        OD1        L-FRAG_3              N4 
+       216        856          A        THR          H        L-FRAG_2              O1 
+       216        810          A        ASP        OD1        L-FRAG_3              N4 
+       217        810          A        ASP        OD1        L-FRAG_3              N4 
+       218        856          A        THR          H        L-FRAG_2              O1 
+       218        810          A        ASP        OD1        L-FRAG_3              N4 
+       219        856          A        THR          H        L-FRAG_2              O1 
+       219        810          A        ASP        OD1        L-FRAG_3              N4 
+       220        810          A        ASP        OD1        L-FRAG_3              N4 
+       221        856          A        THR          H        L-FRAG_2              O1 
+       221        810          A        ASP        OD1        L-FRAG_3              N4 
+       222        810          A        ASP        OD1        L-FRAG_3              N4 
+       223        856          A        THR          H        L-FRAG_2              O1 
+       223        810          A        ASP        OD1        L-FRAG_3              N4 
+       224        810          A        ASP        OD1        L-FRAG_3              N4 
+       226        810          A        ASP        OD1        L-FRAG_3              N4 
+       227        810          A        ASP        OD1        L-FRAG_3              N4 
+       228        810          A        ASP        OD1        L-FRAG_3              N4 
+       229        810          A        ASP        OD1        L-FRAG_3              N4 
+       230        810          A        ASP        OD1        L-FRAG_3              N4 
+       231        810          A        ASP        OD1        L-FRAG_3              N4 
+       233        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       233        810          A        ASP        OD1        L-FRAG_3              N4 
+       234        810          A        ASP        OD1        L-FRAG_3              N4 
+       236        810          A        ASP        OD1        L-FRAG_3              N4 
+       237        810          A        ASP        OD1        L-FRAG_3              N4 
+       238        810          A        ASP        OD1        L-FRAG_3              N4 
+       239        810          A        ASP        OD1        L-FRAG_3              N4 
+       240        810          A        ASP        OD1        L-FRAG_3              N4 
+       241        810          A        ASP        OD1        L-FRAG_3              N4 
+       242        810          A        ASP        OD1        L-FRAG_3              N4 
+       243        810          A        ASP        OD1        L-FRAG_3              N4 
+       245        810          A        ASP        OD1        L-FRAG_3              N4 
+       246        810          A        ASP        OD1        L-FRAG_3              N4 
+       247        856          A        THR          H        L-FRAG_4            H3 2 
+       247        810          A        ASP        OD1        L-FRAG_3              N4 
+       248        810          A        ASP        OD1        L-FRAG_3              N4 
+       249        810          A        ASP        OD1        L-FRAG_3              N4 
+       250        810          A        ASP        OD1        L-FRAG_3              N4 
+       251        810          A        ASP        OD1        L-FRAG_3              N4 
+       252        810          A        ASP        OD1        L-FRAG_3              N4 
+       253        802          A        LYS        HZ2        L-FRAG_3              N4 
+       253        810          A        ASP        OD1        L-FRAG_3              N4 
+       254        802          A        LYS        HZ2        L-FRAG_3              N4 
+       254        810          A        ASP        OD1        L-FRAG_3              N4 
+       255        802          A        LYS        HZ2        L-FRAG_3              N4 
+       255        810          A        ASP        OD1        L-FRAG_3              N4 
+       257        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       257        810          A        ASP        OD1        L-FRAG_3              N4 
+       258        810          A        ASP        OD1        L-FRAG_3              N4 
+       259        810          A        ASP        OD1        L-FRAG_3              N4 
+       261        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       261        859          A        GLN        OE1        L-FRAG_2              O1 
+       261        810          A        ASP        OD1        L-FRAG_3              N4 
+       262        810          A        ASP        OD1        L-FRAG_3              N4 
+       265        810          A        ASP        OD1        L-FRAG_3              N4 
+       266        810          A        ASP        OD1        L-FRAG_3              N4 
+       267        810          A        ASP        OD1        L-FRAG_3              N4 
+       268        810          A        ASP        OD1        L-FRAG_3              N4 
+       269        810          A        ASP        OD1        L-FRAG_3              N4 
+       270        810          A        ASP        OD1        L-FRAG_3              N4 
+       272        810          A        ASP        OD1        L-FRAG_3              N4 
+       274        810          A        ASP        OD1        L-FRAG_3              N4 
+       275        810          A        ASP        OD1        L-FRAG_3              N4 
+       276        810          A        ASP        OD1        L-FRAG_3              N4 
+       277        810          A        ASP        OD1        L-FRAG_3              N4 
+       278        810          A        ASP        OD1        L-FRAG_3              N4 
+       279        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       279        810          A        ASP        OD1        L-FRAG_3              N4 
+       280        810          A        ASP        OD1        L-FRAG_3              N4 
+       282        810          A        ASP        OD1        L-FRAG_3              N4 
+       283        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       284        810          A        ASP        OD1        L-FRAG_3              N4 
+       285        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       285        810          A        ASP        OD1        L-FRAG_3              N4 
+       291        854          A        SER          O        L-FRAG_2              O1 
+       291        810          A        ASP        OD1        L-FRAG_3              N4 
+       292        810          A        ASP        OD1        L-FRAG_3              N4 
+       293        810          A        ASP        OD1        L-FRAG_3              N4 
+       294        810          A        ASP        OD1        L-FRAG_3              N4 
+       295        810          A        ASP        OD1        L-FRAG_3              N4 
+       296        810          A        ASP        OD1        L-FRAG_3              N4 
+       297        810          A        ASP        OD1        L-FRAG_3              N4 
+       298        810          A        ASP        OD1        L-FRAG_3              N4 
+       299        810          A        ASP        OD1        L-FRAG_3              N4 
+       300        810          A        ASP        OD1        L-FRAG_3              N4 
+       301        856          A        THR        OG1        L-FRAG_4            H3 2 
+       302        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       302        810          A        ASP        OD1        L-FRAG_3              N4 
+       303        810          A        ASP        OD1        L-FRAG_3              N4 
+       304        810          A        ASP        OD1        L-FRAG_3              N4 
+       305        810          A        ASP        OD1        L-FRAG_3              N4 
+       307        810          A        ASP        OD1        L-FRAG_3              N4 
+       308        810          A        ASP        OD1        L-FRAG_3              N4 
+       309        810          A        ASP        OD1        L-FRAG_3              N4 
+       311        810          A        ASP        OD1        L-FRAG_3              N4 
+       312        810          A        ASP        OD1        L-FRAG_3              N4 
+       314        810          A        ASP        OD1        L-FRAG_3              N4 
+       316        810          A        ASP        OD1        L-FRAG_3              N4 
+       317        810          A        ASP        OD1        L-FRAG_3              N4 
+       318        810          A        ASP        OD1        L-FRAG_3              N4 
+       319        810          A        ASP        OD1        L-FRAG_3              N4 
+       320        810          A        ASP        OD1        L-FRAG_3              N4 
+       322        810          A        ASP        OD1        L-FRAG_3              N4 
+       323        810          A        ASP        OD1        L-FRAG_3              N4 
+       324        810          A        ASP        OD1        L-FRAG_3              N4 
+       325        810          A        ASP        OD1        L-FRAG_3              N4 
+       327        810          A        ASP        OD1        L-FRAG_3              N4 
+       328        856          A        THR          H        L-FRAG_4            H3 2 
+       328        810          A        ASP        OD1        L-FRAG_3              N4 
+       329        810          A        ASP        OD1        L-FRAG_3              N4 
+       330        810          A        ASP        OD1        L-FRAG_3              N4 
+       331        810          A        ASP        OD1        L-FRAG_3              N4 
+       332        810          A        ASP        OD1        L-FRAG_3              N4 
+       333        859          A        GLN        OE1        L-FRAG_2              O1 
+       333        810          A        ASP        OD1        L-FRAG_3              N4 
+       334        810          A        ASP        OD1        L-FRAG_3              N4 
+       336        810          A        ASP        OD1        L-FRAG_3              N4 
+       337        810          A        ASP        OD1        L-FRAG_3              N4 
+       338        810          A        ASP        OD1        L-FRAG_3              N4 
+       339        810          A        ASP        OD1        L-FRAG_3              N4 
+       340        810          A        ASP        OD1        L-FRAG_3              N4 
+       341        810          A        ASP        OD1        L-FRAG_3              N4 
+       342        810          A        ASP        OD1        L-FRAG_3              N4 
+       344        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       344        810          A        ASP        OD1        L-FRAG_3              N4 
+       345        810          A        ASP        OD1        L-FRAG_3              N4 
+       346        810          A        ASP        OD1        L-FRAG_3              N4 
+       347        810          A        ASP        OD1        L-FRAG_3              N4 
+       348        810          A        ASP        OD1        L-FRAG_3              N4 
+       349        856          A        THR          H        L-FRAG_4            H3 2 
+       349        810          A        ASP        OD1        L-FRAG_3              N4 
+       351        810          A        ASP        OD1        L-FRAG_3              N4 
+       352        810          A        ASP        OD1        L-FRAG_3              N4 
+       353        810          A        ASP        OD1        L-FRAG_3              N4 
+       354        859          A        GLN       HE21        L-FRAG_2              O1 
+       354        810          A        ASP        OD1        L-FRAG_3              N4 
+       355        810          A        ASP        OD1        L-FRAG_3              N4 
+       356        810          A        ASP        OD1        L-FRAG_3              N4 
+       357        810          A        ASP        OD1        L-FRAG_3              N4 
+       358        810          A        ASP        OD1        L-FRAG_3              N4 
+       359        810          A        ASP        OD1        L-FRAG_3              N4 
+       360        810          A        ASP        OD1        L-FRAG_3              N4 
+       361        810          A        ASP        OD1        L-FRAG_3              N4 
+       362        856          A        THR          H        L-FRAG_4            H3 2 
+       362        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       362        810          A        ASP        OD1        L-FRAG_3              N4 
+       363        810          A        ASP        OD1        L-FRAG_3              N4 
+       364        810          A        ASP        OD1        L-FRAG_3              N4 
+       365        810          A        ASP        OD1        L-FRAG_3              N4 
+       366        810          A        ASP        OD1        L-FRAG_3              N4 
+       367        810          A        ASP        OD1        L-FRAG_3              N4 
+       368        810          A        ASP        OD1        L-FRAG_3              N4 
+       370        810          A        ASP        OD1        L-FRAG_3              N4 
+       372        810          A        ASP        OD1        L-FRAG_3              N4 
+       373        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       373        810          A        ASP        OD1        L-FRAG_3              N4 
+       375        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       375        810          A        ASP        OD1        L-FRAG_3              N4 
+       377        810          A        ASP        OD1        L-FRAG_3              N4 
+       378        810          A        ASP        OD1        L-FRAG_3              N4 
+       379        810          A        ASP        OD1        L-FRAG_3              N4 
+       380        810          A        ASP        OD1        L-FRAG_3              N4 
+       381        810          A        ASP        OD1        L-FRAG_3              N4 
+       382        853          A        ASN          O        L-FRAG_4            H3 2 
+       382        810          A        ASP        OD1        L-FRAG_3              N4 
+       383        856          A        THR          H        L-FRAG_4            H3 2 
+       383        810          A        ASP        OD1        L-FRAG_3              N4 
+       384        810          A        ASP        OD1        L-FRAG_3              N4 
+       385        810          A        ASP        OD1        L-FRAG_3              N4 
+       386        810          A        ASP        OD1        L-FRAG_3              N4 
+       388        810          A        ASP        OD1        L-FRAG_3              N4 
+       389        810          A        ASP        OD1        L-FRAG_3              N4 
+       390        810          A        ASP        OD1        L-FRAG_3              N4 
+       391        810          A        ASP        OD1        L-FRAG_3              N4 
+       393        810          A        ASP        OD1        L-FRAG_3              N4 
+       394        810          A        ASP        OD1        L-FRAG_3              N4 
+       395        810          A        ASP        OD1        L-FRAG_3              N4 
+       396        810          A        ASP        OD1        L-FRAG_3              N4 
+       397        856          A        THR          H        L-FRAG_4            H3 2 
+       397        810          A        ASP        OD1        L-FRAG_3              N4 
+       398        810          A        ASP        OD1        L-FRAG_3              N4 
+       399        810          A        ASP        OD1        L-FRAG_3              N4 
+       400        810          A        ASP        OD1        L-FRAG_3              N4 
+       401        810          A        ASP        OD1        L-FRAG_3              N4 
+       402        810          A        ASP        OD1        L-FRAG_3              N4 
+       404        810          A        ASP        OD1        L-FRAG_3              N4 
+       406        810          A        ASP        OD1        L-FRAG_3              N4 
+       409        810          A        ASP        OD1        L-FRAG_3              N4 
+       411        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       414        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       449        933          A        ASP        OD1        L-FRAG_3              N4 
+       450        933          A        ASP        OD1        L-FRAG_3              N4 
+       451        933          A        ASP        OD1        L-FRAG_3              N4 
+       452        933          A        ASP        OD1        L-FRAG_3              N4 
+       453        933          A        ASP        OD1        L-FRAG_3              N4 
+       454        933          A        ASP        OD1        L-FRAG_3              N4 
+       455        933          A        ASP        OD1        L-FRAG_3              N4 
+       457        933          A        ASP        OD1        L-FRAG_3              N4 
+       458        933          A        ASP        OD1        L-FRAG_3              N4 
+       459        933          A        ASP        OD1        L-FRAG_3              N4 
+       460        933          A        ASP        OD1        L-FRAG_3              N4 
+       461        933          A        ASP        OD1        L-FRAG_3              N4 
+       462        933          A        ASP        OD1        L-FRAG_3              N4 
+       463        856          A        THR        OG1        L-FRAG_4            H3 2 
+       463        859          A        GLN       HE22        L-FRAG_2              O1 
+       463        933          A        ASP        OD1        L-FRAG_3              N4 
+       464        933          A        ASP        OD1        L-FRAG_3              N4 
+       465        933          A        ASP        OD1        L-FRAG_3              N4 
+       466        933          A        ASP        OD1        L-FRAG_3              N4 
+       467        933          A        ASP        OD1        L-FRAG_3              N4 
+       468        933          A        ASP        OD1        L-FRAG_3              N4 
+       469        933          A        ASP        OD1        L-FRAG_3              N4 
+       470        933          A        ASP        OD1        L-FRAG_3              N4 
+       471        933          A        ASP        OD1        L-FRAG_3              N4 
+       472        933          A        ASP        OD1        L-FRAG_3              N4 
+       484        854          A        SER          O        L-FRAG_2              O1 
+       484        933          A        ASP        OD1        L-FRAG_3              N4 
+       486        933          A        ASP        OD1        L-FRAG_3              N4 
+       487        933          A        ASP        OD1        L-FRAG_3              N4 
+       488        933          A        ASP        OD1        L-FRAG_3              N4 
+       489        933          A        ASP        OD1        L-FRAG_3              N4 
+       490        933          A        ASP        OD1        L-FRAG_3              N4 
+       491        933          A        ASP        OD1        L-FRAG_3              N4 
+       492        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       492        933          A        ASP        OD1        L-FRAG_3              N4 
+       493        859          A        GLN        OE1        L-FRAG_2              O1 
+       493        933          A        ASP        OD1        L-FRAG_3              N4 
+       494        933          A        ASP        OD1        L-FRAG_3              N4 
+       495        933          A        ASP        OD1        L-FRAG_3              N4 
+       496        933          A        ASP        OD1        L-FRAG_3              N4 
+       497        933          A        ASP        OD1        L-FRAG_3              N4 
+       498        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       498        933          A        ASP        OD1        L-FRAG_3              N4 
+       499        933          A        ASP        OD1        L-FRAG_3              N4 
+       500        933          A        ASP        OD1        L-FRAG_3              N4 
+       501        933          A        ASP        OD1        L-FRAG_3              N4 
+       502        933          A        ASP        OD1        L-FRAG_3              N4 
+       504        933          A        ASP        OD2        L-FRAG_3              N4 
+       505        933          A        ASP        OD2        L-FRAG_3              N4 
+       506        933          A        ASP        OD2        L-FRAG_3              N4 
+       507        933          A        ASP        OD2        L-FRAG_3              N4 
+       508        933          A        ASP        OD2        L-FRAG_3              N4 
+       509        933          A        ASP        OD2        L-FRAG_3              N4 
+       510        933          A        ASP        OD2        L-FRAG_3              N4 
+       511        933          A        ASP        OD2        L-FRAG_3              N4 
+       512        933          A        ASP        OD2        L-FRAG_3              N4 
+       513        933          A        ASP        OD2        L-FRAG_3              N4 
+       514        933          A        ASP        OD2        L-FRAG_3              N4 
+       515        933          A        ASP        OD2        L-FRAG_3              N4 
+       516        933          A        ASP        OD2        L-FRAG_3              N4 
+       516        859          A        GLN        OE1        L-FRAG_2              O1 
+       517        933          A        ASP        OD2        L-FRAG_3              N4 
+       518        933          A        ASP        OD2        L-FRAG_3              N4 
+       519        933          A        ASP        OD2        L-FRAG_3              N4 
+       520        933          A        ASP        OD2        L-FRAG_3              N4 
+       521        933          A        ASP        OD2        L-FRAG_3              N4 
+       522        933          A        ASP        OD2        L-FRAG_3              N4 
+       523        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       523        933          A        ASP        OD2        L-FRAG_3              N4 
+       524        933          A        ASP        OD2        L-FRAG_3              N4 
+       525        933          A        ASP        OD2        L-FRAG_3              N4 
+       525        773          A        SER         OG        L-FRAG_2              O1 
+       526        933          A        ASP        OD2        L-FRAG_3              N4 
+       527        933          A        ASP        OD2        L-FRAG_3              N4 
+       528        933          A        ASP        OD2        L-FRAG_3              N4 
+       532        859          A        GLN       HE22        L-FRAG_2              O1 
+       534        859          A        GLN        OE1        L-FRAG_2              O1 
+       541        856          A        THR          H        L-FRAG_4            H3 2 
+       541        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       562        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       576        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       577        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       579        770          A        ARG       HH22        L-FRAG_2              O1 
+       585        770          A        ARG       HH22        L-FRAG_1               O 
+       585        798          A        GLU        OE2        L-FRAG_1               O 
+       589        770          A        ARG       HH21        L-FRAG_2              O1 
+       591        770          A        ARG       HH22        L-FRAG_1               O 
+       591        798          A        GLU        OE1        L-FRAG_1               O 
+       597        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       597        770          A        ARG       HH21        L-FRAG_2              O1 
+       598        770          A        ARG       HH21        L-FRAG_2              O1 
+       602        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       603        770          A        ARG       HH21        L-FRAG_2              O1 
+       603        933          A        ASP        OD2        L-FRAG_3              N4 
+       605        933          A        ASP        OD2        L-FRAG_3              N4 
+       605        856          A        THR          H        L-FRAG_1               O 
+       607        770          A        ARG       HH21        L-FRAG_1               O 
+       610        933          A        ASP        OD2        L-FRAG_3              N4 
+       612        856          A        THR          H        L-FRAG_1               O 
+       612        933          A        ASP        OD2        L-FRAG_3              N4 
+       620        933          A        ASP        OD2        L-FRAG_3              N4 
+       622        933          A        ASP        OD2        L-FRAG_3              N4 
+       624        856          A        THR          H        L-FRAG_4            H3 2 
+       625        770          A        ARG       HH21        L-FRAG_2              O1 
+       627        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       632        933          A        ASP        OD2        L-FRAG_3              N4 
+       640        933          A        ASP        OD2        L-FRAG_3              N4 
+       642        933          A        ASP        OD1        L-FRAG_3              N4 
+       648        933          A        ASP        OD1        L-FRAG_3              N4 
+       653        933          A        ASP        OD1        L-FRAG_3              N4 
+       653        859          A        GLN       HE21        L-FRAG_2              O1 
+       655        836          A        TYR         HH        L-FRAG_3              N4 
+       661        859          A        GLN        OE1        L-FRAG_2              O1 
+       664        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       670        933          A        ASP        OD1        L-FRAG_3              N4 
+       671        933          A        ASP        OD1        L-FRAG_3              N4 
+       678        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       681        933          A        ASP        OD1        L-FRAG_3              N4 
+       685        933          A        ASP        OD1        L-FRAG_3              N4 
+       686        933          A        ASP        OD1        L-FRAG_3              N4 
+       687        933          A        ASP        OD1        L-FRAG_3              N4 
+       688        770          A        ARG       HH21        L-FRAG_2              O1 
+       688        933          A        ASP        OD1        L-FRAG_3              N4 
+       689        933          A        ASP        OD1        L-FRAG_3              N4 
+       690        933          A        ASP        OD1        L-FRAG_3              N4 
+       691        933          A        ASP        OD1        L-FRAG_3              N4 
+       692        933          A        ASP        OD1        L-FRAG_3              N4 
+       693        933          A        ASP        OD1        L-FRAG_3              N4 
+       694        933          A        ASP        OD1        L-FRAG_3              N4 
+       695        933          A        ASP        OD1        L-FRAG_3              N4 
+       696        933          A        ASP        OD1        L-FRAG_3              N4 
+       698        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       698        933          A        ASP        OD1        L-FRAG_3              N4 
+       699        933          A        ASP        OD1        L-FRAG_3              N4 
+       700        933          A        ASP        OD1        L-FRAG_3              N4 
+       701        933          A        ASP        OD1        L-FRAG_3              N4 
+       702        933          A        ASP        OD1        L-FRAG_3              N4 
+       703        933          A        ASP        OD1        L-FRAG_3              N4 
+       704        933          A        ASP        OD1        L-FRAG_3              N4 
+       705        933          A        ASP        OD1        L-FRAG_3              N4 
+       706        933          A        ASP        OD1        L-FRAG_3              N4 
+       707        933          A        ASP        OD1        L-FRAG_3              N4 
+       708        933          A        ASP        OD1        L-FRAG_3              N4 
+       709        933          A        ASP        OD1        L-FRAG_3              N4 
+       710        933          A        ASP        OD1        L-FRAG_3              N4 
+       711        933          A        ASP        OD1        L-FRAG_3              N4 
+       712        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       712        933          A        ASP        OD1        L-FRAG_3              N4 
+       713        933          A        ASP        OD1        L-FRAG_3              N4 
+       714        933          A        ASP        OD1        L-FRAG_3              N4 
+       715        933          A        ASP        OD1        L-FRAG_3              N4 
+       716        933          A        ASP        OD1        L-FRAG_3              N4 
+       717        933          A        ASP        OD1        L-FRAG_3              N4 
+       718        933          A        ASP        OD1        L-FRAG_3              N4 
+       719        933          A        ASP        OD1        L-FRAG_3              N4 
+       720        933          A        ASP        OD1        L-FRAG_3              N4 
+       721        933          A        ASP        OD1        L-FRAG_3              N4 
+       722        933          A        ASP        OD1        L-FRAG_3              N4 
+       723        933          A        ASP        OD1        L-FRAG_3              N4 
+       724        933          A        ASP        OD1        L-FRAG_3              N4 
+       724        859          A        GLN       HE22        L-FRAG_2              O1 
+       725        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       725        933          A        ASP        OD1        L-FRAG_3              N4 
+       725        770          A        ARG       HH22        L-FRAG_2              O1 
+       726        933          A        ASP        OD1        L-FRAG_3              N4 
+       727        933          A        ASP        OD1        L-FRAG_3              N4 
+       728        933          A        ASP        OD1        L-FRAG_3              N4 
+       730        933          A        ASP        OD1        L-FRAG_3              N4 
+       730        770          A        ARG       HH21        L-FRAG_2              O1 
+       731        933          A        ASP        OD1        L-FRAG_3              N4 
+       732        770          A        ARG       HH22        L-FRAG_2              O1 
+       733        933          A        ASP        OD1        L-FRAG_3              N4 
+       733        770          A        ARG       HH22        L-FRAG_2              O1 
+       734        933          A        ASP        OD1        L-FRAG_3              N4 
+       734        770          A        ARG       HH22        L-FRAG_2              O1 
+       735        933          A        ASP        OD1        L-FRAG_3              N4 
+       737        933          A        ASP        OD1        L-FRAG_3              N4 
+       737        770          A        ARG       HH22        L-FRAG_1               O 
+       739        933          A        ASP        OD1        L-FRAG_3              N4 
+       740        933          A        ASP        OD1        L-FRAG_3              N4 
+       741        859          A        GLN        OE1        L-FRAG_2              O1 
+       743        933          A        ASP        OD2        L-FRAG_3              N4 
+       744        933          A        ASP        OD2        L-FRAG_3              N4 
+       745        933          A        ASP        OD2        L-FRAG_3              N4 
+       746        933          A        ASP        OD2        L-FRAG_3              N4 
+       747        933          A        ASP        OD2        L-FRAG_3              N4 
+       748        933          A        ASP        OD2        L-FRAG_3              N4 
+       749        933          A        ASP        OD2        L-FRAG_3              N4 
+       750        933          A        ASP        OD2        L-FRAG_3              N4 
+       751        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       751        933          A        ASP        OD2        L-FRAG_3              N4 
+       752        810          A        ASP        OD2        L-FRAG_3              N4 
+       755        933          A        ASP        OD2        L-FRAG_3              N4 
+       756        933          A        ASP        OD2        L-FRAG_3              N4 
+       757        933          A        ASP        OD2        L-FRAG_3              N4 
+       758        933          A        ASP        OD2        L-FRAG_3              N4 
+       759        933          A        ASP        OD2        L-FRAG_3              N4 
+       760        770          A        ARG       HH22        L-FRAG_2              O1 
+       761        933          A        ASP        OD2        L-FRAG_3              N4 
+       764        933          A        ASP        OD2        L-FRAG_3              N4 
+       765        933          A        ASP        OD2        L-FRAG_3              N4 
+       766        933          A        ASP        OD2        L-FRAG_3              N4 
+       767        933          A        ASP        OD2        L-FRAG_3              N4 
+       768        933          A        ASP        OD2        L-FRAG_3              N4 
+       768        859          A        GLN       HE21        L-FRAG_2              O1 
+       769        933          A        ASP        OD2        L-FRAG_3              N4 
+       770        856          A        THR          H        L-FRAG_2              O1 
+       770        859          A        GLN        OE1        L-FRAG_2              O1 
+       770        933          A        ASP        OD2        L-FRAG_3              N4 
+       771        854          A        SER          O        L-FRAG_2              O1 
+       771        933          A        ASP        OD2        L-FRAG_3              N4 
+       772        933          A        ASP        OD2        L-FRAG_3              N4 
+       773        933          A        ASP        OD2        L-FRAG_3              N4 
+       775        933          A        ASP        OD2        L-FRAG_3              N4 
+       776        859          A        GLN        OE1        L-FRAG_2              O1 
+       776        933          A        ASP        OD2        L-FRAG_3              N4 
+       777        933          A        ASP        OD2        L-FRAG_3              N4 
+       778        856          A        THR          H        L-FRAG_4            H3 2 
+       778        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       778        859          A        GLN        OE1        L-FRAG_2              O1 
+       779        933          A        ASP        OD2        L-FRAG_3              N4 
+       780        933          A        ASP        OD2        L-FRAG_3              N4 
+       781        933          A        ASP        OD2        L-FRAG_3              N4 
+       782        933          A        ASP        OD2        L-FRAG_3              N4 
+       783        933          A        ASP        OD2        L-FRAG_3              N4 
+       784        933          A        ASP        OD2        L-FRAG_3              N4 
+       785        933          A        ASP        OD2        L-FRAG_3              N4 
+       786        933          A        ASP        OD2        L-FRAG_3              N4 
+       787        933          A        ASP        OD2        L-FRAG_3              N4 
+       788        933          A        ASP        OD2        L-FRAG_3              N4 
+       789        933          A        ASP        OD2        L-FRAG_3              N4 
+       790        933          A        ASP        OD2        L-FRAG_3              N4 
+       792        933          A        ASP        OD2        L-FRAG_3              N4 
+       793        933          A        ASP        OD2        L-FRAG_3              N4 
+       794        933          A        ASP        OD2        L-FRAG_3              N4 
+       795        933          A        ASP        OD2        L-FRAG_3              N4 
+       796        933          A        ASP        OD2        L-FRAG_3              N4 
+       797        933          A        ASP        OD2        L-FRAG_3              N4 
+       798        856          A        THR          H        L-FRAG_4            H3 2 
+       798        933          A        ASP        OD2        L-FRAG_3              N4 
+       799        933          A        ASP        OD2        L-FRAG_3              N4 
+       802        853          A        ASN          O        L-FRAG_4            H3 2 
+       806        859          A        GLN       HE22        L-FRAG_4            H3 2 
+       806        859          A        GLN        OE1        L-FRAG_2              O1 
+       818        856          A        THR          H        L-FRAG_4            H3 2 
+       818        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       818        859          A        GLN       HE22        L-FRAG_2              O1 
+       818        859          A        GLN        OE1        L-FRAG_2              O1 
+       819        856          A        THR          H        L-FRAG_2              O1 
+       824        856          A        THR          H        L-FRAG_2              O1 
+       825        856          A        THR          H        L-FRAG_2              O1 
+       830        859          A        GLN       HE21        L-FRAG_4            H3 2 
+       834        853          A        ASN          O        L-FRAG_2              O1 
+       837        933          A        ASP        OD2        L-FRAG_3              N4 
+       838        933          A        ASP        OD2        L-FRAG_3              N4 
+       840        933          A        ASP        OD2        L-FRAG_3              N4 
+       840        856          A        THR          H        L-FRAG_2              O1 
+       841        933          A        ASP        OD2        L-FRAG_3              N4 
+       842        933          A        ASP        OD2        L-FRAG_3              N4 
+       845        933          A        ASP        OD2        L-FRAG_3              N4 
+       845        859          A        GLN       HE21        L-FRAG_2              O1 
+       845        856          A        THR          H        L-FRAG_2              O1 
+       846        933          A        ASP        OD2        L-FRAG_3              N4 
+       848        933          A        ASP        OD2        L-FRAG_3              N4 
+       849        933          A        ASP        OD2        L-FRAG_3              N4 
+       850        933          A        ASP        OD2        L-FRAG_3              N4 
+       851        933          A        ASP        OD2        L-FRAG_3              N4 
+       852        933          A        ASP        OD2        L-FRAG_3              N4 
+       854        933          A        ASP        OD2        L-FRAG_3              N4 
+       855        933          A        ASP        OD2        L-FRAG_3              N4 
+       856        933          A        ASP        OD2        L-FRAG_3              N4 
+       856        859          A        GLN        OE1        L-FRAG_2              O1 
+       857        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       857        933          A        ASP        OD2        L-FRAG_3              N4 
+       861        933          A        ASP        OD2        L-FRAG_3              N4 
+       862        933          A        ASP        OD2        L-FRAG_3              N4 
+       863        933          A        ASP        OD2        L-FRAG_3              N4 
+       869        933          A        ASP        OD2        L-FRAG_3              N4 
+       887        810          A        ASP        OD1        L-FRAG_3              N4 
+       888        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       890        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       890        856          A        THR        OG1        L-FRAG_4            H3 2 
+       890        859          A        GLN       HE22        L-FRAG_2              O1 
+       892        856          A        THR          H        L-FRAG_4            H3 2 
+       893        810          A        ASP        OD1        L-FRAG_3              N4 
+       895        859          A        GLN       HE22        L-FRAG_2              O1 
+       896        854          A        SER          O        L-FRAG_2              O1 
+       897        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       901        856          A        THR        OG1        L-FRAG_4            H3 2 
+       904        856          A        THR          H        L-FRAG_4            H3 2 
+       904        859          A        GLN       HE22        L-FRAG_2              O1 
+       914        856          A        THR          H        L-FRAG_4            H3 2 
+       914        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       914        859          A        GLN       HE22        L-FRAG_2              O1 
+       916        859          A        GLN        OE1        L-FRAG_2              O1 
+       928        856          A        THR          H        L-FRAG_4            H3 2 
+       932        859          A        GLN        OE1        L-FRAG_2              O1 
+       937        856          A        THR          H        L-FRAG_2              O1 
+       943        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       947        859          A        GLN       HE21        L-FRAG_2              O1 
+       950        802          A        LYS        HZ2        L-FRAG_3              N4 
+       957        802          A        LYS        HZ2        L-FRAG_3              N4 
+       958        802          A        LYS        HZ1        L-FRAG_3              N4 
+       963        933          A        ASP        OD2        L-FRAG_3              N4 
+       963        859          A        GLN        OE1        L-FRAG_2              O1 
+       967        856          A        THR          H        L-FRAG_4            H3 2 
+       967        802          A        LYS        HZ1        L-FRAG_3              N4 
+       973        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       975        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       977        933          A        ASP        OD2        L-FRAG_3              N4 
+       983        859          A        GLN        OE1        L-FRAG_2              O1 
+       984        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       985        933          A        ASP        OD1        L-FRAG_3              N4 
+       986        859          A        GLN        OE1        L-FRAG_4            H3 2 
+       986        933          A        ASP        OD1        L-FRAG_3              N4 
+       987        933          A        ASP        OD1        L-FRAG_3              N4 
+       988        933          A        ASP        OD1        L-FRAG_3              N4 
+       989        933          A        ASP        OD1        L-FRAG_3              N4 
+       990        933          A        ASP        OD1        L-FRAG_3              N4 
+       991        933          A        ASP        OD1        L-FRAG_3              N4 
+       992        933          A        ASP        OD1        L-FRAG_3              N4 
+       993        933          A        ASP        OD1        L-FRAG_3              N4 
+       994        933          A        ASP        OD1        L-FRAG_3              N4 
+       995        933          A        ASP        OD1        L-FRAG_3              N4 
+       996        933          A        ASP        OD1        L-FRAG_3              N4 
+       998        859          A        GLN       HE21        L-FRAG_4            H3 2 
+       998        933          A        ASP        OD1        L-FRAG_3              N4 
+      1000        856          A        THR          H        L-FRAG_2              O1 

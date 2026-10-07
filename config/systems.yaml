@@ -1,0 +1,47 @@
+# System matrix for the PI3K isoform-selectivity study.
+# 14 inhibitor-bound complexes across Class I PI3K isoforms (alpha/beta/delta/gamma).
+systems:
+  alpha: ["4JPS", "5DXT", "7K6M", "7K6O"]
+  beta:  ["2Y3A", "4BFR"]
+  delta: ["5DXU", "5T8F", "5VLR", "7JIS"]
+  gamma: ["3ENE", "3L08", "5OQ4", "6T3C"]
+
+ligands:
+  4JPS: "alpelisib (BYL719)"
+  5DXT: "GDC-0326"
+  7K6M: "PF-06843195"
+  7K6O: "10-5429"
+  2Y3A: "pictilisib (GDC-0941)"
+  4BFR: "pyrimidone-indoline amide"
+  5DXU: "GDC-0326"
+  5T8F: "taselisib (GDC-0032)"
+  5VLR: "trifluoroethyl-pyrazolopyrrolotriazine"
+  7JIS: "compound 2F"
+  3ENE: "pyrazolopyrimidine inhibitor"
+  3L08: "omipalisib (GSK2126458)"
+  5OQ4: "bimiralisib (PQR309)"
+  6T3C: "AZD7648"
+
+# UniProt entry per isoform used for equivalent-residue mapping.
+# Reference isoform for numbering: human PIK3CA.
+uniprot:
+  reference: "PIK3CA"
+  alpha: "PIK3CA"
+  beta: "PIK3CB_mouse"     # no human p110beta crystal structure available
+  delta: "PIK3CD"
+  gamma: "PIK3CG"
+
+# Raw-data layout: <datadir>/<iso>/data_<PDB>_ref/raw-data/*.dat
+# (5OQ4 is the exception: data_50Q4_ref)
+dir_exceptions:
+  5OQ4: "data_50Q4_ref"
+
+contact_types: ["HBond", "Hydrophobic", "WaterBridge", "Ionic", "Pi-Pi", "Pi-Cation", "Metal"]
+
+# Analysis parameters
+equilibration_frames: 200     # first 200 frames (~20 ns) discarded; statistics on the rest
+frame_dt_ns: 0.1              # 0.1 ns per frame
+occupancy_major: 0.50         # >= 50%: major interaction
+occupancy_minor: 0.20         # 20-50%: moderate/intermittent
+occupancy_ignore: 0.05        # < 5%: negligible
+kinase_domain_range: [700, 1068]  # PIK3CA-equivalent numbering
